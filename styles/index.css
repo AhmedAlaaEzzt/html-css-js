@@ -4,3 +4,8 @@
   line-height: 1.25;
   font-weight: 500;
 }
+
+.alert-message {
+  color: #718096;
+  line-height: 1.5;
+}
