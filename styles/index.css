@@ -18,4 +18,5 @@
 .alert {
   max-width: 24rem;
   box-shadow: 10px 20px 20px rgba(0, 0, 0, 0.5);
+  margin: 0 auto;
 }
